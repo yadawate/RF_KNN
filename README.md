@@ -1,4 +1,4 @@
-# RF_KNN
+# RF_MCMC
 This is a trial to develop new approach of using combination of MCMC and RF for regression analysis of asphalt temperature with air temperature and depth.
 “final_forest.m” is the code for the random forest algorithm. Running this code will train and test the random forest algorithm for the 
 dataset with 70% data for training and 30% data for testing.
